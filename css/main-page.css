@@ -1,0 +1,22 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 40px 0;
+}
+
+.title h1 {
+  font-size: 36px;
+}
+
+main.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 30px;
+}
+
+.redSvg path{
+  fill: crimson;
+}
